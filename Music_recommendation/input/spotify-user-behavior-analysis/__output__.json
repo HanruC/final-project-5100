@@ -1,0 +1,18 @@
+[{"stream_name":"stderr","time":1.807756149,"data":"/opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":1.807854619,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":1.810419072,"data":"[NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.\n"}
+,{"stream_name":"stderr","time":1.844569478,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2.967840627,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":2.96788837,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.96817534,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.968423044,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.968728113,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.968894048,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.969114701,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.969322906,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.969443221,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.969592747,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.970048186,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.97016831,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":2.970374586,"data":"[NbConvertApp] Writing 458503 bytes to __results__.html\n"}
+]
